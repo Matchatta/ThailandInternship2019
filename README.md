@@ -1,2 +1,2 @@
-# ThailandIntership2019
+# ThailandInternship2019
 Test submission
